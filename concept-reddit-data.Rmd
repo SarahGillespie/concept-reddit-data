@@ -56,7 +56,7 @@ import requests
 
 
  
-subreddit = 'television'
+subreddit = 'cats'
 limit = 100
 timeframe = 'month' #hour, day, week, month, year, all
 listing = 'top' # controversial, best, hot, new, random, rising, top
